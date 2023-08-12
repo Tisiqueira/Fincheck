@@ -1,5 +1,5 @@
-export function Register(){
+export function Dashboard(){
   return(
-    <h1>Register Page</h1>
+    <h1>Dashboard</h1>
   )
 }
